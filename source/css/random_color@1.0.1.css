@@ -1,0 +1,86 @@
+.randoma:not(.info_user_pool) {
+	color:#7579e7 !important;
+}
+.randomb:not(.info_user_pool) {
+	color:#ff80ab !important;
+}
+.randomc:not(.info_user_pool) {
+	color:#b58a78 !important;
+}
+.randomd:not(.info_user_pool) {
+	color:#01789b !important;
+}
+.randome:not(.info_user_pool) {
+	color:#e58a8a !important;
+}
+.randomf:not(.info_user_pool) {
+	color:#3f67d1 !important;
+}
+.randomg:not(.info_user_pool) {
+	color:#ea5055 !important;
+}
+.randomh:not(.info_user_pool) {
+	color: #ff9800 !important;
+}
+.randomi:not(.info_user_pool) {
+	color:#584974 !important;
+}
+
+.randoma:not(.info_user_pool):hover {
+    background:#7579e7 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #7579e7 !important;
+    border-color: #7579e7 !important;
+}
+.randomb:not(.info_user_pool):hover {
+	background:#ff80ab !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #ff80ab !important;
+    border-color: #ff80ab !important;
+}
+.randomc:not(.info_user_pool):hover {
+	background:#b58a78 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #b58a78 !important;
+    border-color: #b58a78 !important;
+}
+.randomd:not(.info_user_pool):hover {
+	background:#01789b !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #01789b !important;
+    border-color: #01789b !important;
+}
+.randome:not(.info_user_pool):hover {
+	background:#e58a8a !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #e58a8a !important;
+    border-color: #e58a8a !important;
+}
+.randomf:not(.info_user_pool):hover {
+	background:#3f67d1 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #3f67d1 !important;
+    border-color: #3f67d1 !important;
+}
+.randomg:not(.info_user_pool):hover {
+	background:#ea5055 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #ea5055 !important;
+    border-color: #ea5055 !important;
+}
+.randomh:not(.info_user_pool):hover {
+	background: #ff9800 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #ff9800 !important;
+    border-color: #ff9800 !important;
+}
+.randomi:not(.info_user_pool):hover {
+	background:#584974 !important;
+    color:#fff !important;
+    box-shadow: 0 0.125rem 1rem #584974 !important;
+    border-color: #584974 !important;
+}
+
+.randoma a:not(.info_user_pool):hover, .randomb a:not(.info_user_pool):hover, .randomc a:not(.info_user_pool):hover, .randomd a:not(.info_user_pool):hover, .randome a:not(.info_user_pool):hover, .randomf a:not(.info_user_pool):hover, .randomg a:not(.info_user_pool):hover, .randomh a:not(.info_user_pool):hover, .randomi a:not(.info_user_pool):hover {
+    color: #fff !important;
+}
